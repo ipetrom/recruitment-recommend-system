@@ -43,7 +43,7 @@
 
 ---
 
-## 2. Zadanie 1: System rekomendacyjny (Notebook)
+## 2. Zadanie: System rekomendacyjny (Notebook)
 
 > **UWAGA:** Zadania **nie da się rozwiązać w 100%** – chodzi o **podejście**, kreatywność, dokumentację procesu, pomysły, “ślepe drogi” i plany, czego brakuje, by w rzeczywistości dopasować kandydatów do ofert. Dane są rzeczywiste, ale bardzo okrojone więc nie uda ci się przewidzieć rzeczywistości.  
 
