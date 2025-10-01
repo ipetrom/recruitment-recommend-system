@@ -1,3 +1,5 @@
+_projekt był realizowany w Maju 2025 roku_
+
 
 ## 1. Dane i ich schematy
 
